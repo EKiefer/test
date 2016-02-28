@@ -21,8 +21,28 @@
             "title": "Project layout"
         }, 
         {
+            "location": "/chlorine/", 
+            "text": "Chlorine (Hypochlorite Feed System)\n\n\nStrength of bleach\n   \n\n\n\n\nWhat is chlorine?\n\n\nChlorine is a chemical used in our treatment process. Chlorine is a disinfectent--which means it inactivates pathogens \n(many of them, but not all of them)\n. Although it can be purchased in several different forms, we purchase it in the form of sodium hypochlorite (NaClO).\n\n\n\n\nStrength \n\n\nWe purchase sodium hypochlorite that is approximately 12.5% active (by weight). It can also be expressed as 15% active (by volume). This means that 1 pound of sodium hypochlorite solution will have about 0.125 lbs of active chlorine. Likewise, 1 gallon of sodium hypochlorite of bleach will consist of 0.15 active gallons.   \n\n\n\n\n\n\nNote\n\n\nYou should note that the title will be automatically capitalized.", 
+            "title": "Chlorine"
+        }, 
+        {
+            "location": "/chlorine/#chlorine-hypochlorite-feed-system", 
+            "text": "Strength of bleach", 
+            "title": "Chlorine (Hypochlorite Feed System)"
+        }, 
+        {
+            "location": "/chlorine/#what-is-chlorine", 
+            "text": "Chlorine is a chemical used in our treatment process. Chlorine is a disinfectent--which means it inactivates pathogens  (many of them, but not all of them) . Although it can be purchased in several different forms, we purchase it in the form of sodium hypochlorite (NaClO).", 
+            "title": "What is chlorine?"
+        }, 
+        {
+            "location": "/chlorine/#strength", 
+            "text": "We purchase sodium hypochlorite that is approximately 12.5% active (by weight). It can also be expressed as 15% active (by volume). This means that 1 pound of sodium hypochlorite solution will have about 0.125 lbs of active chlorine. Likewise, 1 gallon of sodium hypochlorite of bleach will consist of 0.15 active gallons.       Note  You should note that the title will be automatically capitalized.", 
+            "title": "Strength "
+        }, 
+        {
             "location": "/about/", 
-            "text": "", 
+            "text": "Lorem ipsum dolor sit amet\n\n\nConsectetur adipiscing elit\n\n\nInteger molestie lorem at massa\n\n\nFacilisis in pretium nisl aliquet\n\n\nNulla volutpat aliquam velit\n\n\nPhasellus iaculis neque\n\n\n\n\n\n\nPurus sodales ultricies\n\n\nVestibulum laoreet porttitor sem\n\n\nAc tristique libero volutpat at\n\n\nFaucibus porta lacus fringilla vel\n\n\nAenean sit amet erat nunc\n\n\nEget porttitor lorem  \n\n\n\n\n    Test\n    Test\n    Test\n    Test", 
             "title": "About"
         }
     ]
